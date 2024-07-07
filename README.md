@@ -1,6 +1,5 @@
 # 1-Iris-Dataset
-Comprehensive analysis and visualization of the Iris dataset, including data preprocessing, exploratory data analysis, and machine learning modeling using a decision tree classifier.
-Based on the extracted content from your Markdown file, I'll draft a README file for your GitHub repository. This README will include sections commonly found in data analysis and visualization projects, such as an introduction, installation instructions, usage, and more.
+Comprehensive analysis and visualization of the Iris dataset, including data preprocessing, exploratory data analysis, and machine learning modeling using a decision tree classifier. This README will include sections commonly found in data analysis and visualization projects, such as an introduction, installation instructions, usage, and more.
 
 ---
 
